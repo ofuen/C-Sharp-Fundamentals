@@ -1,0 +1,13 @@
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\bin\Debug\netcoreapp3.1\C-Sharp-Fundamentals.exe
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\bin\Debug\netcoreapp3.1\C-Sharp-Fundamentals.deps.json
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\bin\Debug\netcoreapp3.1\C-Sharp-Fundamentals.runtimeconfig.json
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\bin\Debug\netcoreapp3.1\C-Sharp-Fundamentals.runtimeconfig.dev.json
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\bin\Debug\netcoreapp3.1\C-Sharp-Fundamentals.dll
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\bin\Debug\netcoreapp3.1\C-Sharp-Fundamentals.pdb
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\obj\Debug\netcoreapp3.1\C-Sharp-Fundamentals.csprojAssemblyReference.cache
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\obj\Debug\netcoreapp3.1\C-Sharp-Fundamentals.AssemblyInfoInputs.cache
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\obj\Debug\netcoreapp3.1\C-Sharp-Fundamentals.AssemblyInfo.cs
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\obj\Debug\netcoreapp3.1\C-Sharp-Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\obj\Debug\netcoreapp3.1\C-Sharp-Fundamentals.dll
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\obj\Debug\netcoreapp3.1\C-Sharp-Fundamentals.pdb
+C:\Users\Oscar\Desktop\code\C-Sharp-Fundamentals\obj\Debug\netcoreapp3.1\C-Sharp-Fundamentals.genruntimeconfig.cache
