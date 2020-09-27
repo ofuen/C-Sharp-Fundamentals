@@ -13,6 +13,14 @@ namespace C_Sharp_Fundamentals
             myCar.Model = "Cutlas Supreme";
             myCar.Year = 1986;
             myCar.Color = "Silver";
+
+            Console.WriteLine("{0} {1} {2} {3}",
+            myCar.Make,
+            myCar.Model,
+            myCar.Year,
+            myCar.Color);
+
+            Console.ReadLine();
         }
     }
 
