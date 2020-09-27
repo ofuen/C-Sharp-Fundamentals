@@ -8,7 +8,7 @@ namespace C_Sharp_Fundamentals
     {
         static void Main(string[] args)
         {
-            
+            Car myCar = new Car();
         }
     }
 
@@ -18,6 +18,6 @@ namespace C_Sharp_Fundamentals
         public string Model { get; set; }
         public int Year { get; set; }
         public string Color { get; set; }
-        
+
     }
 }
